@@ -1,0 +1,1 @@
+<?php $db = mysqli_connect('localhost', 'root', '', 'inventaris') or die('Database error'); ?>
